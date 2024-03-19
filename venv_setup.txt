@@ -1,0 +1,5 @@
+# create a virtual environment in the same folder in which we are 
+python3.10.2 -m venv numerical_cognition
+
+# activate the virtual environment
+source /home/student/Desktop/numerical_cognition/env/bin/activate
